@@ -1,0 +1,10 @@
+* cmu-infix
+
+Updated infix.cl of the CMU AI repository, originally written by Mark Kantrowitz
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rigetticomputing/cmu-infix.git   |
+| commit  | da62fa3  |
+| systems | cmu-infix |
+|---------+-------------------------------------------|
+
